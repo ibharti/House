@@ -25,7 +25,7 @@ body {
 	height: 5rem;
 	width: 2rem;
 	background-color: rgb(239, 132, 9);
-	position: absolute;
+	position: fixed;
 } */
 .walls {
 	width: 250px;
